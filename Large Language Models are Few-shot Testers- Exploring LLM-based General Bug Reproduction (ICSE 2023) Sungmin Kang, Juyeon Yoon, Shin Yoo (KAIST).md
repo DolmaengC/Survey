@@ -5,7 +5,7 @@ Sungmin Kang, Juyeon Yoon, Shin Yoo (KAIST)
 
 Link : https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Large+Language+Models+are+Few-shot+Testers%3A+Exploring+LLM-based+General+Bug+Reproduction+%28ICSE+2023%29+Sungmin+Kang%2C+Juyeon+Yoon%2C+Shin+Yoo+%28KAIST%29&btnG=
 
-
+날짜 : 23 Sep 2022 
 
 요약 : LLM의 성능은 문제 해결을 요청하는 방법에 따라 성능이 크게 변하는데 성능을 높으기 위한 최적의 질문을 찾는 것을 프롬프트 엔지니어링이라고 한다. LIBRO는 LLM에 프롬프트 엔지니어링을 통해 만든 질문을 통해 버그 리포트로 부터 버그를 재생산하는 기술이다.
 
